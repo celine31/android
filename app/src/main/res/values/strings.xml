@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Meteo</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_actualiser">Actualiser</string>
     <string name="erreur_connexion_internet">Pas de connexion</string>
     <string name="icone">icône</string>
+    <string name="attente">chargement...</string>
 
     <!-- TODO: Remove or change this placeholder text -->
 </resources>

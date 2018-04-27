@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">weather</string>
     <string name="erreur_connexion_internet">not connection</string>
+    <string name="attente">loading...</string>
+    <string name="icone">icon</string>
+    <string name="action_actualiser">refresh</string>
 </resources>
