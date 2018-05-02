@@ -5,4 +5,5 @@
     <string name="attente">loading...</string>
     <string name="icone">icon</string>
     <string name="action_actualiser">refresh</string>
+    <string name="partagerVia">Share...</string>
 </resources>

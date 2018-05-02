@@ -4,6 +4,7 @@
     <string name="erreur_connexion_internet">Pas de connexion</string>
     <string name="icone">icône</string>
     <string name="attente">chargement...</string>
-
+    <string name="action_partager">partager</string>
+    <string name="partagerVia">partager via...</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
